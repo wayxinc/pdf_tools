@@ -3,9 +3,6 @@
 **Flutter PDF Tools** – A Flutter plugin to **split** and **merge** PDF files with full page fidelity.  
 Supports **Android, iOS, macOS, and Windows**.  
 
-> ⚠️ This project is released **for personal and non-commercial use only**.  
-> Commercial use is prohibited without prior written permission from the author.  
-
 ---
 
 ## ✨ Features
