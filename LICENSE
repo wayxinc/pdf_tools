@@ -1,1 +1,32 @@
-TODO: Add your license here.
+Custom Non-Commercial License for pdf_tools
+Copyright (c) 2025 [Your Name or Pseudonym]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to use, copy, and modify
+the Software for personal, educational, research, or other non-commercial purposes only.
+
+THE SOFTWARE MAY NOT BE USED, COPIED, MODIFIED, MERGED, PUBLISHED, DISTRIBUTED,
+SUBLICENSED, SOLD, OR OTHERWISE EXPLOITED FOR ANY COMMERCIAL PURPOSE WITHOUT PRIOR
+WRITTEN PERMISSION FROM THE COPYRIGHT HOLDER.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## Third-Party Components
+
+This project makes use of third-party libraries. These remain under their own licenses:
+
+- **Apache PDFBox** – Licensed under the Apache License 2.0  
+  See: https://pdfbox.apache.org/
+
+- **qpdf** – Licensed under the Artistic License 2.0  
+  See: http://qpdf.sourceforge.net/
+
+- **Apple PDFKit** – Licensed as part of macOS/iOS SDKs under the Apple Developer Program License  
+  See: https://developer.apple.com/documentation/pdfkit
